@@ -1,0 +1,44 @@
+﻿#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{	
+
+	for (int i = 0; i < 7; i++)
+	{
+		for (int j = 0; j < 8; j++)
+		{
+			if (j >= abs(i - 3) && j <= 6 - abs(i - 3))
+				printf("*");
+			else
+				printf(" ");
+
+
+		}
+		printf("\n");
+	}
+
+
+}
+
+/*
+0123456
+	*
+   ***		0
+  *****		1
+ *******		2
+*********		3
+ *******		4
+  *****		5
+   ***		6
+    *
+*/
+
+
+
+
+
+
+
+
+
