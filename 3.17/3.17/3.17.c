@@ -13,6 +13,10 @@ int main()
 		float credits_limit = 0.0;
 		printf("Enter account number(-1 to end): ");
 		scanf_s("%d", &account);
+		if (account == -1)
+		{
+			break;
+		}
 		printf("Enter beginning balance: ");
 		scanf_s("%f", &balance);
 		printf("Enter total charges: ");

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\homework\\3.17\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\homework-\\3.17\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{125377A8-D1EC-4D58-B019-2E7E8F3C5C89}|3.17\\3.17.vcxproj|C:\\Users\\user\\Desktop\\homework\\3.17\\3.17\\3.17.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{125377A8-D1EC-4D58-B019-2E7E8F3C5C89}|3.17\\3.17.vcxproj|C:\\Users\\user\\Desktop\\homework-\\3.17\\3.17\\3.17.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{125377A8-D1EC-4D58-B019-2E7E8F3C5C89}|3.17\\3.17.vcxproj|solutionrelative:3.17\\3.17.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "3.17.c",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\homework\\3.17\\3.17\\3.17.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\homework-\\3.17\\3.17\\3.17.c",
               "RelativeDocumentMoniker": "3.17\\3.17.c",
-              "ToolTip": "C:\\Users\\user\\Desktop\\homework\\3.17\\3.17\\3.17.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\homework-\\3.17\\3.17\\3.17.c",
               "RelativeToolTip": "3.17\\3.17.c",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-10-19T07:20:14.068Z",
               "EditorCaption": ""
