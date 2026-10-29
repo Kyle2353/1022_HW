@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\homework-\\4.31\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\1022_HW\\4.31\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B8F98CA-5363-4804-85A4-B364B33BE818}|4.31\\4.31.vcxproj|C:\\Users\\user\\Desktop\\homework-\\4.31\\4.31\\4.31.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4B8F98CA-5363-4804-85A4-B364B33BE818}|4.31\\4.31.vcxproj|C:\\Users\\user\\Desktop\\1022_HW\\4.31\\4.31\\4.31.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4B8F98CA-5363-4804-85A4-B364B33BE818}|4.31\\4.31.vcxproj|solutionrelative:4.31\\4.31.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "4.31.c",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\homework-\\4.31\\4.31\\4.31.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\1022_HW\\4.31\\4.31\\4.31.c",
               "RelativeDocumentMoniker": "4.31\\4.31.c",
-              "ToolTip": "C:\\Users\\user\\Desktop\\homework-\\4.31\\4.31\\4.31.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\1022_HW\\4.31\\4.31\\4.31.c",
               "RelativeToolTip": "4.31\\4.31.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-10-20T01:19:24.706Z",
               "EditorCaption": ""
